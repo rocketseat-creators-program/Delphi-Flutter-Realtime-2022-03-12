@@ -44,11 +44,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCXDgFjsqbV7nKMjPCj_47g3fFOYguG37I',
-    appId: '1:977218347708:web:8f4683c5d96df7352d26b9',
-    messagingSenderId: '977218347708',
-    projectId: 'movimentacoes-caixa',
-    authDomain: 'movimentacoes-caixa.firebaseapp.com',
-    storageBucket: 'movimentacoes-caixa.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
